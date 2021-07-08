@@ -14,7 +14,7 @@ Data Science Enthusiast Mahasiswa Semester 4 Teknik Informatika Salah Satu PTS D
   
 ## Authors
 
-- [@AgungYogaSetiawan](https://www.github.com/AgungYogaSetiawan)
+- Github: [AgungYogaSetiawan](https://www.github.com/AgungYogaSetiawan)
 
   
 
