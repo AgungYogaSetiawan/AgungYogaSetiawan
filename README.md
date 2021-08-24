@@ -2,7 +2,7 @@
 ![gambar](https://github.com/AgungYogaSetiawan/portfolio/blob/main/codedatawithyoga.png)
 # Agung Yoga Setiawan Portfolio
 
-Data Science Enthusiast Mahasiswa Semester 4 Teknik Informatika Salah Satu PTS Di Banjarmasin
+Data Science Enthusiast Mahasiswa Teknik Informatika Salah Satu PTS Di Banjarmasin
 
 
 ## Social Media
