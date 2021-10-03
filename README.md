@@ -15,7 +15,9 @@ Data Science Enthusiast Mahasiswa Teknik Informatika Salah Satu PTS Di Banjarmas
 [<img align="left" alt="Agung Yoga Setiawan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UClTFB61ahqcBR1lHNFsQ00g)
 [<img align="left" alt="Agung Yoga Setiawan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/agung-yoga-setiawan-973b07209/)
 [<img align="left" alt="ayogastwn_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/ayogastwn_)
-  
+
+<br />
+
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
@@ -29,7 +31,7 @@ Data Science Enthusiast Mahasiswa Teknik Informatika Salah Satu PTS Di Banjarmas
 
 <br />
 ### Github Stats:
-[![AgungYogaSetiawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AgungYogaSetiawan)](https://github.com/anuraghazra/github-readme-stats)
+[![AgungYogaSetiawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AgungYogaSetiawan)]
 
 ### Authors
 
