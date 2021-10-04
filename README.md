@@ -33,8 +33,7 @@ Data Science Enthusiast Mahasiswa Teknik Informatika Salah Satu PTS Di Banjarmas
 <br />
 
 ### Github Stats:
-![AgungYogaSetiawan's github stats](https://github-readme-stats.vercel.app/api?username=AgungYogaSetiawan&show_icons=true&theme=synthwave)
-)
+![AgungYogaSetiawan's github stats](https://github-readme-stats.vercel.app/api?username=AgungYogaSetiawan&show_icons=true&theme=synthwave&hide_border=true)
 
 <br />
 
