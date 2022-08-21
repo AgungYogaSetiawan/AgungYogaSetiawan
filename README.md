@@ -5,7 +5,7 @@
 Data Science Enthusiast Mahasiswa Teknik Informatika Salah Satu PTS Di Banjarmasin
 
 - 🌱 I’m currently learning data science & machine learning
-- 🥅 I'm still college student at Universitas Islam Kalimantan Muhammad Arsyad Al-Banjari semester 5
+- 🥅 I'm still college student at Universitas Islam Kalimantan Muhammad Arsyad Al-Banjari semester 7
 - 💬 Ask me about data science & machine learning
 - ⚡ Fun fact: I like to play valorant 
 
